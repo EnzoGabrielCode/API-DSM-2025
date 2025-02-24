@@ -1,1 +1,1 @@
-alo alo alo
+print("teste")
